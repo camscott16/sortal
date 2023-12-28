@@ -29,9 +29,9 @@ It's built using Pygame to provide a graphical representation of the sorting pro
 
 ## Usage
 ## Installation
-- Clone or fork the repository/
-- Ensure you have Python installed/
-- install pygame by running:/ 
+- Clone or fork the repository 
+- Ensure you have Python installed
+- install pygame by running: 
 	
 ```sh
 pip install pygame
